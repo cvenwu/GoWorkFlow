@@ -1,5 +1,5 @@
 PROJECT_NAME := "github.com/sivanWu0222/GoWorkFlow"
-PKG := "$(PROJECT_NAME)"
+PKG := "go-workflow"
 PKG_LIST := $(shell go list ${PKG}/... | grep -v /vendor/)
 GO_FILES := $(shell find . -name '*.go' | grep -v /vendor/ | grep -v _test.go)
 
