@@ -1,4 +1,4 @@
-PROJECT_NAME := "github.com/cnych/go-github-actions"
+PROJECT_NAME := "github.com/sivanWu0222/GoWorkFlow"
 
 PKG := "$(PROJECT_NAME)"
 
