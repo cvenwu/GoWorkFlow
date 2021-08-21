@@ -1,4 +1,4 @@
-module go-workflow
+module GoWorkFlow
 
 go 1.14
 
